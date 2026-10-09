@@ -6,16 +6,19 @@ Penyembunyian data internal class menggunakan modifier akses `private` atau `pro
 * **`Bentuk.java`**: Variabel `warna` menggunakan akses `protected` serta dilengkapi metode `getWarna()` dan `setWarna()`.
 <div align="center">
 <img width="200" height="65" alt="image" src="https://github.com/user-attachments/assets/faab6522-446b-410a-9346-24c7fd7bfd3c" />
+<img width="270" height="183" alt="image" src="https://github.com/user-attachments/assets/08cdd0a4-7758-4cac-ad26-0ee45e468cca" />
 </div>
 
 * **`Lingkaran.java`**: Variabel `radius` bersifat `private` dan diakses melalui metode `getRadius()` serta `setRadius()`.
 <div align="center">
 <img width="306" height="69" alt="image" src="https://github.com/user-attachments/assets/64953dbb-24fe-4441-8046-8d495ba63c5b" />
+<img width="243" height="187" alt="image" src="https://github.com/user-attachments/assets/4e74edaf-83ad-496f-b02a-ce3e8620a41a" />
 </div>
 
 * **`Silinder.java`**: Variabel `tinggi` bersifat `private` dan dikelola melalui metode `getTinggi()` serta `setTinggi()`.
 <div align="center">
 <img width="288" height="55" alt="image" src="https://github.com/user-attachments/assets/f20e9e46-0f28-45cd-b40f-be4c4ad1ca47" />
+<img width="249" height="176" alt="image" src="https://github.com/user-attachments/assets/f1c557ca-5a90-47cb-a8fb-a57ecde431ca" />
 </div>
 
 
