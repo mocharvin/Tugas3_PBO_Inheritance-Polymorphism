@@ -1,4 +1,4 @@
-# Tugas3_PBO_Inheritance-Polymorphism
+# Tugas 3 PBO Inheritance & Polymorphism
 Membuat sistem yang memanfaatkan sistem pewarisan/inheritance dan polimorpisme
 
 ### 1. Encapsulation (Enkapsulasi)
